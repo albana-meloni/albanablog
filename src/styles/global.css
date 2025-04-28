@@ -30,6 +30,9 @@
 	font-style: normal;
 	font-display: swap;
 }
+html {
+	scroll-behavior: smooth;
+}
 body {
 	font-family: 'Atkinson', sans-serif;
 	margin: 0;
@@ -86,6 +89,7 @@ a:hover {
 }
 p {
 	margin-bottom: 1em;
+	text-align: justify;
 }
 .prose p {
 	margin-bottom: 2em;
