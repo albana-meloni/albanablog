@@ -72,7 +72,7 @@ Y por ahora no tengo más, pero sé que mis **próximos pasos** a seguir son:
 
 Tengo muchas más cosas planeadas, **realmente no puedo esperar a lanzar el MVP de Focushroom**, por ahora te puedo dar un pequeño adelanto:
 
-<img src="/public/screenshot-focushroom(1).png" alt="Screenshot de Focushroom en versión beta">
+![Screenshot de Focushroom en versión beta](/screenshot-focushroom(1).png)
 
 Cuando consiga mi objetivo lo vas a ver claramente reflejado en el título de la entrada de blog, por el momento me mantengo con mis **analogías**.
 
