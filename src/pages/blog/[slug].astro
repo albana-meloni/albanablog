@@ -2,13 +2,18 @@
 import { type CollectionEntry, getCollection } from 'astro:content';
 import BlogPost from '../../layouts/BlogPost.astro';
 import { render } from 'astro:content';
+import { generateSlugFromTitle } from '../../utils/slug';
+
 
 export async function getStaticPaths() {
 	const posts = await getCollection('blog');
-	return posts.map((post) => ({
-		params: { slug: post.id },
-		props: post,
-	}));
+	return posts.map((post) => {
+		const slug = generateSlugFromTitle(post.data.title);
+		return {
+			params: { slug },
+			props: { ...post, customSlug: slug },
+		};
+	});
 }
 type Props = CollectionEntry<'blog'>;
 

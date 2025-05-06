@@ -3,6 +3,7 @@ title: 'Crecer a través de la adversidad'
 description: 'Aunque hoy no fue mi día más productivo, la constancia se mantiene firme. A veces avanzar también es saber frenar, ajustar detalles y priorizar. El MVP sigue en pie, aunque sea a pasitos.'
 pubDate: 'apr 30 2025'
 heroImage: '/blog3-hero.jpg'
+keywords: ''
 ---
 
 Hoy me encontré derrotada y cansada, no podía usar la cabeza para programar un pomodoro, un simple cronómetro (que ya hice), volví del trabajo y cuando me senté en la computadora se me cerraban los ojos. Entonces me puse a hacer cosas más banales que no necesitaban el uso de mi cerebro casi. Modifiqué algunos estilos de los botones para poder agregarle imágenes dentro y que tengan un borde.

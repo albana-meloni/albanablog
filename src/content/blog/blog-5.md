@@ -1,8 +1,9 @@
 ---
-title: 'Cuando el caos se organiza'
-description: 'Después de días intensos de estudio, volví al código con todo y logré grandes avances en Focushroom. Hoy comparto cómo solucioné el problema de los ciclos y el cronómetro, mostrándote mi código, mejoras visuales y nuevos sonidos relajantes. El caos técnico se transformó en funcionalidad.'
+title: 'Desarrollando App Pomodoro con JavaScript'
+description: 'Explora el proceso de desarrollo de Focushroom, una aplicación Pomodoro construida con JavaScript. Descubre cómo implementar ciclos automáticos, sonidos relajantes y almacenamiento local para mejorar la productividad.'
 pubDate: 'may 05 2025'
 heroImage: '/blog5-hero.jpg'
+keywords: 'App Pomodoro con JavaScript, Desarrollo de aplicaciones de productividad, Implementación de cronómetro en JavaScript, Uso de localStorage en aplicaciones web, Integración de sonidos en aplicaciones web, Diseño de interfaces para aplicaciones de productividad'
 ---
 
 Luego de días de estudio _intenso_ para un parcial de la facultad, reaparezco con **excelentes** actualizaciones sobre Focushroom.

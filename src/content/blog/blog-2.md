@@ -3,6 +3,7 @@ title: 'El arcoíris en la tormenta'
 description: 'Entre bloqueos creativos y pequeños logros, avanzo con Focushroom, mi app pomodoro en pixel art. Reflexiono, aprendo y celebro cada paso, aunque aún no tenga cronómetro jaja.'
 pubDate: 'apr 29 2025'
 heroImage: '/blog2-hero.jpg'
+keywords: ''
 ---
 Estos últimos días considero que me encuentro en un **burnout creativo**, por eso también comencé el blog, para inspirarme un poco. En términos de creatividad, el *momentum* que gano al escribir (porque me encanta) me ayuda a mantenerme inspirada aunque sea un poquito más para hacer otro push, seguir averiguando en stack overflow, probar con otro prompt a ChatGPT, releer código una y otra vez. Recuerdo que lo primero que me dijeron cuando entré a la facultad fue: ***"el programador se pasa más tiempo leyendo código que escribiendo"***, no lo creí por completo hasta hoy.
 

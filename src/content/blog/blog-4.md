@@ -3,6 +3,7 @@ title: 'Soñarlo, pensarlo, codearlo'
 description: 'Focushroom ya empieza a tomar forma. Terminé la pantalla Home, el cronómetro y una ruta dinámica que me tiene emocionadísima. Aunque aún hay desafíos por resolver, este proyecto ya huele a algo real.'
 pubDate: 'may 01 2025'
 heroImage: '/blog4-hero.jpg'
+keywords: ''
 ---
 
 Avancé muchísimo con **Focushroom**, aunque dejé para más adelante el inicio de sesión con Google, ya desarrollé la pantalla **Home** donde podés elegir el tiempo de enfoque, descanso y la cantidad de ciclos que queres que se repita el pomodoro; y esa información la capturo en una ruta dinámica: `/pomodoro/:focusTime/:breakTime/:cycles`. **ES GENIAL**.

@@ -3,6 +3,7 @@ title: 'La gota que empezó a llenar el vaso'
 description: 'Un viaje personal que comenzó con una idea sencilla y hoy impulsa mi pasión por crear, aprender y construir mi futuro como desarrolladora.'
 pubDate: 'apr 28 2025'
 heroImage: '/blog1-hero.jpg'
+keywords: ''
 ---
 Tuve mi primer encuentro con el frontend a los 10-12 años, la historia que siempre cuento cuando me preguntan por qué me gusta la programación explica muy bien mi espíritu creativo, inquieto y curioso. Por allá en la década del 2010, estaba en el living de mi casa escuchando canciones en YouTube desde la computadora familiar que contaba con el sistema operativo de **Windows XP**, y de repente me surgió la idea: ¿Y si hago una página como YouTube pero *solo* con las canciones que me gustan?
 
